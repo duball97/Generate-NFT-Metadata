@@ -1,0 +1,11 @@
+{
+    "name": "Basel #31",
+    "description": "Basel is a collection of 100 unique NFTs, each with its own identity.",
+    "image": "gateway_url = \"http://bafybeiey5pkgz2whufsio4d6w3ktntjrxwkzxp5zwzilj6r5vkg5kd3a5e.ipfs.localhost:8080/\"31.png",
+    "attributes": [
+        {
+            "trait_type": "Identity",
+            "value": "Roman Emperor"
+        }
+    ]
+}
